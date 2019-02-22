@@ -1,6 +1,6 @@
 {
   "name": "ascii-deco",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cool ASCII decorations for the console.",
   "main": "ascii-deco.js",
   "scripts": {
